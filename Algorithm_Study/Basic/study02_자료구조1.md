@@ -84,4 +84,4 @@ int top() {
 
 #### 에디터
 
-- 에디터 문제 [https://www.acmicpc.net/problem/1406)
+- 에디터 문제 (https://www.acmicpc.net/problem/1406)
