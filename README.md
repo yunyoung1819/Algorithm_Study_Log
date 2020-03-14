@@ -1,2 +1,2 @@
-# Algorithm_Study_Log
-Algorithm_Study_Log
+# Algorithm-Study-Log
+Algorithm-Study-Log
