@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39672be1-7658-49da-8f8c-62459f4553e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm_Study/Basic/그래프.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm_Study/image/경로.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm_Study/image/사이클.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm_Study/image/가중치.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm_Study/image/간선.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm_Study/image/그래프1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm_Study/image/그래프2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm_Study/image/루프.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm_Study/Basic/그래프.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/Basic/그래프.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +46,8 @@
         <entry file="file://$PROJECT_DIR$/Algorithm_Study/Basic/그래프.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
-                <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+              <first_editor relative-caret-position="169">
+                <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
               </first_editor>
               <second_editor />
             </state>
@@ -76,10 +79,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
-    <option name="y" value="25" />
-    <option name="width" value="1416" />
-    <option name="height" value="974" />
+    <option name="x" value="29" />
+    <option name="y" value="39" />
+    <option name="width" value="1680" />
+    <option name="height" value="975" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -124,7 +127,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584871366613" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584885955139" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -170,7 +173,7 @@
       <workItem from="1560354564166" duration="1915000" />
       <workItem from="1577505359373" duration="6685000" />
       <workItem from="1581852873470" duration="2095000" />
-      <workItem from="1584158535638" duration="6718000" />
+      <workItem from="1584158535638" duration="8635000" />
     </task>
     <task id="LOCAL-00001" summary="정렬 studynote add">
       <created>1584159101082</created>
@@ -186,17 +189,24 @@
       <option name="project" value="LOCAL" />
       <updated>1584173934106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="정렬 studynote add">
+      <created>1584871375822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584871375822</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50482000" />
+    <option name="totallyTimeSpent" value="52399000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="538" y="28" width="1416" height="974" extended-state="0" />
+    <frame x="1118" y="25" width="1680" height="975" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20116618" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16870415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -213,8 +223,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.66909623" visible="true" weight="0.2147806" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3309038" side_tool="true" visible="true" weight="0.2147806" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.6693154" visible="true" weight="0.21453287" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3306846" side_tool="true" visible="true" weight="0.21453287" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -288,8 +298,8 @@
     <entry file="file://$PROJECT_DIR$/Algorithm_Study/Basic/그래프.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="425">
-            <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <first_editor relative-caret-position="169">
+            <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
           </first_editor>
           <second_editor />
         </state>
